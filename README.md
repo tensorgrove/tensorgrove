@@ -1,4 +1,3 @@
-# Kevin Kamto
 **Agentic AI Engineer · Backend Developer · Frontend Developer · Blockchain**
 
 Building intelligent autonomous systems, scalable web apps, and decentralized solutions.
